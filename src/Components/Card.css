@@ -80,6 +80,12 @@ h4{
   }
    .btn{
      position: relative;
-     bottom: 75px;
+     bottom: 88px;
+  }
+   .button{
+     position: relative;
+     bottom: 164px;
+     left: 187px;
+     font-size: 70px;
   }
 }
